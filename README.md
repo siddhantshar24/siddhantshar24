@@ -9,7 +9,7 @@ I am working as a Software Engineer in the industry learning development, collab
 * 🌱   Currently learning Java, SpringBoot, ReactJS, NodeJS and CI/CD methodologies.
 * 📚   Solving Algorithmic problems in free time to improve my problem solving skills for improving my approach towards difficult problems.
 * 💻   Gaining experience in building softwares working for the industry.
-* ⛵   Encouraging people for working on building projects and improving Algorithmic thinking.
+* ⛵   Encouraging team mates for working on building projects and improving Algorithmic thinking.
 
 ### Skills
 
