@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/siddhantsharma24/siddhantsharma24/blob/main/header_1.png)
+![](https://github.com/siddhantdeccc2412/siddhantdeccc2412/blob/main/header_1.png)
 
 I am working as a Software Engineer in the industry learning development, collaboration, communication and developing cool projects working with teams that help me grow as a better person and improving my problem solving skills..
 
@@ -30,4 +30,4 @@ I am working as a Software Engineer in the industry learning development, collab
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsharma24&layout=compact&theme=calm)](https://github.com/siddhantsharma24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeccc2412&layout=compact&theme=calm)](https://github.com/siddhantdeccc2412/github-readme-stats)
