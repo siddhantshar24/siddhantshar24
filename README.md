@@ -30,4 +30,5 @@ I am working as a Software Engineer in the industry learning development, collab
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant24sharma12&layout=compact&theme=calm)](https://github.com/siddhant24sharma12/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant24sharma12&layout=compact&theme=calm)](https://github.com/siddhant24sharma12/github-readme-stats)-->
+
