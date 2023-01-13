@@ -2,7 +2,7 @@
 
 <!--![](https://github.com/siddhant24sharma12/siddhant24sharma12/blob/main/header_1.png)-->
 
-I am working as a Software Engineer in the industry learning development, collaboration, communication and developing cool projects working with teams that help me grow as a better person and improving my problem solving skills..
+I am working as a Software Engineer in the industry learning development, collaboration, communication and developing great projects working with teams that help me grow as a better person and improving my problem solving skills..
 
 * 🧐   Interested in Software Development currently working on industry applications that use Java (SpringBoot) and JavaScript (ReactJS, NodeJS).
 * 🎓   Interested in Problem Solving and Algorithmic thinking working on difficult problems that help me grow as a developer.
