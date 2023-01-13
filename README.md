@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/siddhant24sharma12/siddhant24sharma12/blob/main/header_1.png)
+<!--![](https://github.com/siddhant24sharma12/siddhant24sharma12/blob/main/header_1.png)-->
 
 I am working as a Software Engineer in the industry learning development, collaboration, communication and developing cool projects working with teams that help me grow as a better person and improving my problem solving skills..
 
