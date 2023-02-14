@@ -1,9 +1,9 @@
 
 I am working as a Software Engineer in the industry learning development, collaboration, communication and developing great projects working with teams that help me grow as a better person and improving my problem solving skills..
 
-* 🧐   Interested in Software Development currently working on industry applications that use Java (SpringBoot) and JavaScript (ReactJS, NodeJS).
-* 🎓   Interested in Problem Solving and Algorithmic thinking.
-* 🌱   Currently learning Java, SpringBoot, ReactJS, NodeJS and CI/CD methodologies.
+*  Interested in Software Development currently working on industry applications that use Java (SpringBoot) and JavaScript (ReactJS, NodeJS).
+*  Interested in Problem Solving and Algorithmic thinking.
+*  Currently learning Java, SpringBoot, ReactJS, NodeJS and CI/CD methodologies.
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
